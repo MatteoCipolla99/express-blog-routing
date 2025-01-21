@@ -1,7 +1,7 @@
 {
   "name": "express-blog-intro",
   "version": "1.0.0",
-  "description": "Il blod di Matteo",
+  "description": "Il blog di Matteo",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
